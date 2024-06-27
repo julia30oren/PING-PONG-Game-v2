@@ -1,3 +1,5 @@
+Simple Ping Pong Game
+
 # Workpiece
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
