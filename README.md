@@ -8,3 +8,6 @@ It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
 1. Open the template in VS Code.
 2. From the Explorer Window of VS Code navigate to the src folder and double click on the main.cpp file.
 3. Press F5 on the keyboard to compile and run the program.
+ 
+https://github.com/user-attachments/assets/d3d306b2-d157-49cb-aaf4-438a95c9890d
+
